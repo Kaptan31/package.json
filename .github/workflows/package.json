@@ -1,0 +1,13 @@
+{
+  "name": "peerjs-server",
+  "version": "1.0.0",
+  "description": "Simple PeerJS signaling server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "peer": "^1.5.2",
+    "express": "^4.18.2"
+  }
+}
